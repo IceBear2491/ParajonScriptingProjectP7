@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ForLoop : MonoBehaviour
 {
-    int numEnemies = 3;
+    public int numEnemies = 3;
     // Start is called before the first frame update
     void Start()
     {

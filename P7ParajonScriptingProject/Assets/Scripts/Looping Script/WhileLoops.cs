@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class WhileLoops : MonoBehaviour
 {
-    int cupsInTheSink = 4;
+    public int cupsInTheSink = 4;
     // Start is called before the first frame update
     void Start()
     {
